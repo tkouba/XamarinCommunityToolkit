@@ -224,12 +224,24 @@
   </data>
   <data name="ViewsDescription" xml:space="preserve">
     <value>A custom view or control allows for adding custom functionality as if it came out of the Xamarin.Forms box.</value>
+  </data> 
+  <data name="LayoutsTitle" xml:space="preserve">
+    <value>Layouts</value>
+  </data>
+  <data name="LayoutsDescription" xml:space="preserve">
+    <value>A custom layout provides the mechanism for positioning and sizing child elements in a certain way.</value>
   </data>
   <data name="AvatarViewTitle" xml:space="preserve">
     <value>AvatarView</value>
   </data>
   <data name="AvatarViewDescription" xml:space="preserve">
     <value>The AvatarView represents a user's name by using the initials and a generated background color.</value>
+  </data>  
+  <data name="DockLayoutTitle" xml:space="preserve">
+    <value>DockLayout</value>
+  </data>
+  <data name="DockLayoutDescription" xml:space="preserve">
+    <value>Makes it easy to dock content in all four directions (top, bottom, left and right).</value>
   </data>
   <data name="AvatarViewSizeText" xml:space="preserve">
     <value>Size Property:</value>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:BasePage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Xamarin.CommunityToolkit.Sample.Pages.Views.LayoutsGalleryPage"
+    xmlns:pages="clr-namespace:Xamarin.CommunityToolkit.Sample.Pages"
+    xmlns:vm="clr-namespace:Xamarin.CommunityToolkit.Sample.ViewModels.Views"
+    ControlTemplate="{StaticResource GalleryPageTemplate}">
+    <pages:BasePage.BindingContext>
+        <vm:LayoutsGalleryViewModel />
+    </pages:BasePage.BindingContext>
+</pages:BasePage>
