@@ -1267,5 +1267,20 @@ namespace Xamarin.CommunityToolkit.Sample.Resx {
             }
         }
 
+		internal static string StateLayoutTitle
+		{
+			get
+			{
+				return ResourceManager.GetString("StateLayoutTitle", resourceCulture);
+			}
+		}
+
+		internal static string StateLayoutDescription
+		{
+			get
+			{
+				return ResourceManager.GetString("StateLayoutDescription", resourceCulture);
+			}
+		}
     }
 }
